@@ -1,5 +1,5 @@
 <template>
-  <calculator></calculator>
+    <calculator></calculator>
 </template>
 
 <script>
@@ -14,5 +14,7 @@ export default {
 </script>
 
 <style>
-
+  body{
+    background: grey;
+  }
 </style>
